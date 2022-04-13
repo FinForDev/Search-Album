@@ -1,7 +1,6 @@
 let albumList = document.getElementById('albumList');
 let searchBar = document.getElementById('searchBar');
 
-
 searchBar.addEventListener('keypress', async (event) => {
     if (event.key === "Enter") {
         const userInput = searchBar.value;
@@ -15,6 +14,9 @@ searchBar.addEventListener('keypress', async (event) => {
         }
     }
 })
+// for (var i = 0; i < 3; i++) {
+//     setTimeout(function () { alert(i); }, 1000 + i);
+// }
 
 
 
@@ -30,11 +32,7 @@ const showAlbum = (albums) => {
         `;
         })
         .join('');
-
-
-
-
-    albumList.innerHTML = htmlString ;
+    albumList.innerHTML = htmlString;
 
 };
 
