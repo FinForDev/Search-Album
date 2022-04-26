@@ -24,7 +24,7 @@ console.log("second line")
 
 console.log("aaa")
 console.log("teeeeest")
-console.log("27")
+console.log("2777")
 const showAlbum = (albums) => {
 
     const htmlString = albums
