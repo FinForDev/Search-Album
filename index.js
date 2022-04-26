@@ -19,6 +19,7 @@ searchBar.addEventListener('keypress', async (event) => {
 // }
 
 console.log("asasdfdf")
+console.log("second line")
 
 const showAlbum = (albums) => {
 
