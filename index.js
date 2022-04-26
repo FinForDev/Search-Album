@@ -18,7 +18,7 @@ searchBar.addEventListener('keypress', async (event) => {
 //     setTimeout(function () { alert(i); }, 1000 + i);
 // }
 
-
+console.log("line21")
 console.log("asasdfdf")
 console.log("second line")
 
