@@ -17,7 +17,7 @@ searchBar.addEventListener('keypress', async (event) => {
 // for (var i = 0; i < 3; i++) {
 //     setTimeout(function () { alert(i); }, 1000 + i);
 // }
-
+console.log("aaa")
 console.log("teeeeest")
 
 const showAlbum = (albums) => {
