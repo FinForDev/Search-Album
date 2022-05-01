@@ -20,7 +20,7 @@ searchBar.addEventListener('keypress', async (event) => {
 
 console.log("line21")
 console.log("asasdfdf")
-console.log("second line")
+console.log("seconsadfasdfd line")
 
 console.log("aaa")
 console.log("teeeeest")
